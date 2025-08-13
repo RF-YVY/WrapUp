@@ -10,6 +10,14 @@ This application allows users to create and manage weekly work reports with a mo
 - **Confirmation Prompts**: Users receive confirmation before clearing any data to prevent accidental loss.
 - **PDF Generation**: Generate professional-looking PDF reports based on user-defined settings.
 
+<img width="682" height="748" alt="Image" src="https://github.com/user-attachments/assets/9cfe7159-f550-4729-baa3-d57418405cfd" />
+
+<img width="621" height="586" alt="Image" src="https://github.com/user-attachments/assets/f85b180d-9290-4a5b-9e42-dbfa63ea7ae7" />
+
+<img width="695" height="526" alt="Image" src="https://github.com/user-attachments/assets/d0cb9254-75b5-4936-bad7-0825cd13a5a2" />
+
+<img width="935" height="648" alt="Image" src="https://github.com/user-attachments/assets/67a8fa99-7840-40e8-b272-f118714c3b2d" />
+
 ## Installation
 
 1. Clone the repository:
